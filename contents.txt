@@ -1,0 +1,7 @@
+quarter	10	.25
+dime	0	.1
+nickel	10	.05
+chips	1	.75
+sweet-tea	20	1
+usb 5 2.50
+goggles 3 5

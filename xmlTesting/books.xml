@@ -1,0 +1,27 @@
+<BOOKS>
+
+<Book>
+ <title>Huckleberry Finn</title>
+ <author>Mark Twain</author>
+ <year>1885</year>
+</Book>
+
+<Book>
+ <title>Tom Sawyer</title>
+ <author>Mark Twain</author>
+ <year>1884</year>
+</Book>
+
+<Book>
+ <title>The Theory of Everything</title>
+ <author>Stephen Hawking</author>
+ <year>2006</year>
+</Book>
+
+<Book>
+ <title>A Brief History of Time</title>
+ <author>Stephen Hawking</author>
+ <year>1998</year>
+</Book>
+
+</BOOKS>
